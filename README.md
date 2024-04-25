@@ -1,7 +1,7 @@
 # Manastiri-demo
 
 Ovaj repozitorijum sadrži demonstrativne fotografije aplikacije Manastiri.
-Aplikaciju realizovao tim: Novica Tepić, Gordan Letić, Marko Đajić, Darijo Prerad Nikola Gatarić i Ana Lukić.
+Aplikaciju realizovao tim: Novica Tepić, Gordan Letić, Marko Đajić, Darijo Prerad, Nikola Gatarić i Ana Lukić.
 
 ![](https://github.com/Djed01/Manastiri-demo/blob/main/Demo/Screenshot_1.png)
 
